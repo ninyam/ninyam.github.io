@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: home
 width: 1500px
 title: About
 permalink: /
