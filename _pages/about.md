@@ -19,6 +19,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+I am a William W. Elliot Assistant Research Professor at the Department of Mathematics at Duke University since January 2022. My postdoctoral mentors are Kirsten Wickelgren and Veronica Ciocanel.
+
+I obtained my Ph.D. in the Department of Mathematics at the University of British Columbia (UBC) in August 2021. I worked under the supervision of Ben Williams and Alejandro Adem. Before that, I completed my M.Sc. in Mathematics at the National University of Colombia in Medellín under the supervision of José Manuel Gómez Guerra. I got my B.Sc. in Mathematics at the National University of Colombia in Manizales. More details on my academic background and activities are available on my cv.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
