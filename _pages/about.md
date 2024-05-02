@@ -2,13 +2,14 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: <a href='#'>Assistant Professor at </a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor of Mathematics, University #<a href='#'>Assistant Professor of Mathematics</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>niny j arcila m [@] gmail . com</p>
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
