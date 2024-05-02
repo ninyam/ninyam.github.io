@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a William W. Elliot Assistant Research Professor at the Department of Mathematics at Duke University since January 2022. My postdoctoral mentors are Kirsten Wickelgren and Veronica Ciocanel.
+I am a William W. Elliot Assistant Research Professor at the Department of Mathematics at Duke University since January 2022. My postdoctoral mentors are [Kirsten Wickelgren](https://services.math.duke.edu/~kgw/index.html) and [Veronica Ciocanel](https://services.math.duke.edu/~ciocanel/).
 
-I obtained my Ph.D. in the Department of Mathematics at the University of British Columbia (UBC) in August 2021. I worked under the supervision of Ben Williams and Alejandro Adem. Before that, I completed my M.Sc. in Mathematics at the National University of Colombia in Medellín under the supervision of José Manuel Gómez Guerra. I got my B.Sc. in Mathematics at the National University of Colombia in Manizales. More details on my academic background and activities are available on my cv.
+I obtained my Ph.D. in the Department of Mathematics at the University of British Columbia (UBC) in August 2021. I worked under the supervision of [Ben Williams](https://personal.math.ubc.ca/~tbjw/) and [Alejandro Adem](https://personal.math.ubc.ca/~adem/). Before that, I completed my M.Sc. in Mathematics at the Universidad Nacional de Colombia in Medellín under the supervision of [José Manuel Gómez Guerra](https://sites.google.com/a/unal.edu.co/jmgomez0/english). I got my B.Sc. in Mathematics at the Universidad Nacional de Colombia in Manizales. More details on my academic background and activities are available on my cv.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
