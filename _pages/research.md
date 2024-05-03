@@ -7,6 +7,19 @@ nav: true
 nav_order: 1
 ---
 
+<div class="post">
+  <article>
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% include social.liquid %}</div>
+
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
+  </article>
+</div>
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
