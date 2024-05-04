@@ -7,17 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-<div class="post">
-  <article>
-    <!-- Social -->
-      <div class="social">
-        <div class="contact-icons">
-        <a href="http://arxiv.org/a/arcilamaya_n_1" title="arxiv"><i class="ai ai-arxiv"></i></a>
-        </div>
-      </div>
-  </article>
-</div>
-
 <!-- _pages/research.md -->
 <div class="publications">
 
