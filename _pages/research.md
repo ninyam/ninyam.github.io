@@ -10,17 +10,15 @@ nav_order: 1
 <div class="post">
   <article>
     <!-- Social -->
-    {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
+        <div class="contact-icons">
+        <a href="http://arxiv.org/a/{{ site.arxiv_username }}" title="arxiv"><i class="ai ai-arxiv"></i></a>
+        </div>
       </div>
-    {% endif %}
   </article>
 </div>
 
-<!-- _pages/publications.md -->
+<!-- _pages/research.md -->
 <div class="publications">
 
 {% bibliography %}
