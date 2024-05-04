@@ -12,7 +12,7 @@ nav_order: 1
     <!-- Social -->
       <div class="social">
         <div class="contact-icons">
-        <a href="http://arxiv.org/a/{{ site.arxiv_username }}" title="arxiv"><i class="ai ai-arxiv"></i></a>
+        <a href="http://arxiv.org/a/arcilamaya_n_1" title="arxiv"><i class="ai ai-arxiv"></i></a>
         </div>
       </div>
   </article>
