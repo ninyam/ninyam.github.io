@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Dr. Niny Arcila-Maya",
-    "label": "Mathematician",
+    "pronouns": "she / ella",
     "image": "",
     "email": "niny.arcilamaya[@]duke[.]edu",
     "phone": "",
     "url": "https://ninyam.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,21 +16,21 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Duke University",
+      "position": "William W. Elliot Assistant Research Professor",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2024-07-31",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "volunteer": [
