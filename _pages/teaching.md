@@ -10,7 +10,7 @@ nav_order: 2
 > “Teachers have three loves: love of learning, love of learners, and the love of bringing the first two loves together.”
 > –Hayden Scott
 
-I am passionate about making mathematics more welcoming, more accessible, and less intimidating. I also belief mathematical endeavors are human endeavors, and they should be pursued in accordance with the axioms of Professor Federico Ardila-Mantilla <d-cite key="gregor2015draw"></d-cite>
+I am passionate about making mathematics more welcoming, more accessible, and less intimidating. I also belief mathematical endeavors are human endeavors, and they should be pursued in accordance with the axioms of Professor Federico Ardila-Mantilla <d-citation key="gregor2015draw"></d-citation>
 
 
 **Axiom 1.** Mathematical potential is equally present in different groups, irrespective of geographic, demographic, and economic boundaries.
@@ -25,4 +25,3 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like!
 
-[Todos cuentan: Cultivating diversity in combinatorics](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf). Notices of the American Mathematical Society 63:1164–1170, 2016.
