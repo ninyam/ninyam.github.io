@@ -25,3 +25,7 @@ Every project has a beautiful feature showcase page. It’s easy to include imag
 </div>
 
 ## Talks
+
+## Workshops
+
+## Expository Writings
