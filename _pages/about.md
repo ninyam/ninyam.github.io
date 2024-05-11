@@ -2,7 +2,7 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: Assistant Professor of Mathematics, University #<a href='#'>Assistant Professor of Mathematics</a>
+subtitle: Assistant Professor of Mathematics, Black and Latinx/e Student Success Cohort, University #<a href='#'>Assistant Professor of Mathematics</a>
 
 profile:
   align: left

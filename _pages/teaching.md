@@ -10,8 +10,7 @@ nav_order: 2
 > “Teachers have three loves: love of learning, love of learners, and the love of bringing the first two loves together.”
 > –Hayden Scott
 
-I am passionate about making mathematics more welcoming, more accessible, and less intimidating. I also belief mathematical endeavors are human endeavors, and they should be pursued in accordance with the axioms of Professor Federico Ardila-Mantilla <d-citation key="gregor2015draw"></d-citation>
-
+I am passionate about making mathematics more welcoming, more accessible, and less intimidating. I also belief mathematical endeavors are human endeavors, and they should be pursued in accordance with the axioms of Professor Federico Ardila-Mantilla:
 
 **Axiom 1.** Mathematical potential is equally present in different groups, irrespective of geographic, demographic, and economic boundaries.
 
