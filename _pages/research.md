@@ -12,7 +12,7 @@ My research interests lie at the interface of algebra, algebraic geometry, and, 
 In my doctoral thesis, I established decomposition theorems for topological Azumaya algebras, and for topological Azumaya algebras with involutions of the first kind. I am currently working on the computation of the integral cohomology of classifying spaces of some projective spaces. I am also working on a TDA-MathBio project with Veronica Ciocanel.
 
 ### Publications 
-Every project has a beautiful feature showcase page. It’s easy to include images in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+<!-- Every project has a beautiful feature showcase page. It’s easy to include images in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.-->
 
 <!-- _pages/research.md -->
 <div class="publications">
@@ -24,6 +24,5 @@ Every project has a beautiful feature showcase page. It’s easy to include imag
 ### Talks
 
 ### Workshops
-Every project has a beautiful feature showcase page. It’s easy to include images in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
 ### Expository Writings

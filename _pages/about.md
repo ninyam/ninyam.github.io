@@ -11,9 +11,9 @@ profile:
   more_info: >
     <p>she / ella</p>
     <p>niny.arcilamaya[@]duke[.]edu</p>
-    <p></p>
     <p>1600 Holloway Ave</p>
-    <p>San Francisco, CA 94132</p>
+    <p>San Francisco</p>
+    <p>CA 94132</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
