@@ -24,3 +24,18 @@ I am passionate about making mathematics more welcoming, more accessible, and le
 
 Organize your courses by years, topics, or universities, however you like!-->
 
+# Previous
+
+## Spring 2024
+- I taught a Non-Research Independent Study on Topological Data Analysis at Duke University.
+- I led discussion sessions in four sections of MATH 218D2: Matrices and Vectors at Duke University.
+
+## Fall 2023
+- I taught one section of MATH 401 – Introduction to Abstract Algebra at Duke University.
+
+## Spring 2023
+
+## Fall 20222
+
+## Spring 2022
+
