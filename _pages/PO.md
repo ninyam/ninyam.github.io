@@ -10,10 +10,10 @@ nav_order: 4
 > The real satisfaction from mathematics is in learning from others and sharing with others.
 > –[Bill Thurston](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
 
-Together with [Maye Montoya](https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya) and [Carlos Ospina](https://www.math.utah.edu/~ospina/), I co-organize [Pares Ordenados](https://ninyam.github.io/paresordenados/index), a free online mathematics mentorship program in Spanish. The program connects math students from Latin America with graduate students or early-career mathematicians around the world, who serve as mentors for semester-long reading projects. 
+Together with [Maye Montoya](https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya) and [Carlos Ospina](https://www.math.utah.edu/~ospina/), I co-organize [Pares Ordenados](https://ninyam.github.io/paresordenados/index), a free online mathematics mentorship program in Spanish. The program connects math students with graduate students or early-career mathematicians around the world, who serve as mentors for semester-long reading projects. 
 
 ### WHO?
-Pares Ordenados especially aims to provide such mentorship to Spanish-speaking students in Latin America from underrepresented groups in mathemetics, as well as to students at non-research oriented universities.
+Pares Ordenados especially aims to provide such mentorship to Spanish-speaking students in Latin America from underrepresented groups in mathematics, as well as to students at non-research oriented universities.
 
 <!-- - Women
 - Students of African descent
