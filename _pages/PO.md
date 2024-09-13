@@ -38,6 +38,6 @@ Pares Ordenados takes place online.
 > “What is belonging? The extent to which an individual feels accepted, valued, and legitimate within the community.”
 > –[Deanna Haunsperger](https://www.youtube.com/watch?v=jwAE3iHi4vM)
 
-Pares Ordenados is about the community! Apart from providing students a way to learn mathematics that otherwise the would not have access to, we also aim to foster connections among the members of our Latinx/Hispanic Math Community around the world.
+Pares Ordenados is about the community! Apart from providing students a way to learn mathematics that otherwise they would not have access to, we also aim to foster connections among the members of our Latinx/Hispanic Math Community around the world.
 
 For more information about our program, contact us at `paresordenados[@]gmail[.]com`!
