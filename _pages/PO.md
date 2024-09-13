@@ -35,7 +35,8 @@ Pares Ordenados takes place online.
 - At the end of the semester, there is an online event where mentees give short presentations about their directed reading course, and attend the panel about _Latinx/Hispanic Mathematicians Around The World_.
 
 ### WHAT FOR?
-> What is belonging? The extent to which an individual feels accepted, valued, and legitimate within the community.> –[Deanna Haunsperger](https://www.youtube.com/watch?v=jwAE3iHi4vM)
+> What is belonging? The extent to which an individual feels accepted, valued, and legitimate within the community.
+> –[Deanna Haunsperger](https://www.youtube.com/watch?v=jwAE3iHi4vM)
 
 Pares Ordenados is about the community! One of the main goals of this program is to foster collaborations among the members of our Latinx/Hispanic Math Community around the world.
 

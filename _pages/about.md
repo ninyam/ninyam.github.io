@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[she / ella](https://pronouns.org)</p> <p>niny[.]arcilamaya[@]sfsu[.]edu</p> <p>1600 Holloway Ave</p> <p>San Francisco, CA 94132</p>
+    <p>she / ella</p> <p>niny[.]arcilamaya[@]sfsu[.]edu</p> <p>1600 Holloway Ave</p> <p>San Francisco, CA 94132</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
