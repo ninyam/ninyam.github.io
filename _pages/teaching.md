@@ -25,6 +25,8 @@ I am passionate about making mathematics more welcoming, more accessible, and le
 Organize your courses by years, topics, or universities, however you like!-->
 
 
+### Teaching
+
 #### Future Courses
 - **MATH 226: Calculus I** - _Spring 2025_
 
@@ -44,4 +46,4 @@ Organize your courses by years, topics, or universities, however you like!-->
 
 ##### Universidad de Caldas
 - **Lógica Matemática** - _Fall 2013_
- 
+

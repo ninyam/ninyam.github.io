@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-> The real satisfaction from mathematics is in learning from others and sharing with others.
+> “The real satisfaction from mathematics is in learning from others and sharing with others.”
 > –[Bill Thurston](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
 
 Together with [Maye Montoya](https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya) and [Carlos Ospina](https://www.math.utah.edu/~ospina/), I co-organize [Pares Ordenados](https://ninyam.github.io/paresordenados/index), a free online mathematics mentorship program in Spanish. The program connects math students with graduate students or early-career mathematicians around the world, who serve as mentors for semester-long reading projects. 
@@ -35,7 +35,7 @@ Pares Ordenados takes place online.
 - At the end of the semester, there is an online event where mentees give short presentations about their directed reading course, and attend the panel about _Latinx/Hispanic Mathematicians Around The World_.
 
 ### WHAT FOR?
-> What is belonging? The extent to which an individual feels accepted, valued, and legitimate within the community.
+> “What is belonging? The extent to which an individual feels accepted, valued, and legitimate within the community.”
 > –[Deanna Haunsperger](https://www.youtube.com/watch?v=jwAE3iHi4vM)
 
 Pares Ordenados is about the community! One of the main goals of this program is to foster collaborations among the members of our Latinx/Hispanic Math Community around the world.
