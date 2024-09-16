@@ -42,7 +42,7 @@ Organize your courses by years, topics, or universities, however you like!-->
 - **Laboratory Calculus II** - _Spring 2022_
 
 ##### University of British Columbia
-- **Linear Systems** - _Spring 2021_
+- **Linear Systems** - Online - _Spring 2021_
 
 ##### Universidad de Caldas
 - **Lógica Matemática** - _Fall 2013_

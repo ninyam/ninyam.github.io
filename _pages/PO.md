@@ -12,7 +12,7 @@ nav_order: 4
 
 Together with [Maye Montoya](https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya) and [Carlos Ospina](https://www.math.utah.edu/~ospina/), I co-organize [Pares Ordenados](https://ninyam.github.io/paresordenados/index), a free online mathematics mentorship program in Spanish. The program connects math students with graduate students or early-career mathematicians around the world, who serve as mentors for semester-long reading projects. 
 
-### WHO?
+#### WHO?
 Pares Ordenados especially aims to provide such mentorship to Spanish-speaking students in Latin America from underrepresented groups in mathematics, as well as to students at non-research oriented universities.
 
 <!-- - Women
@@ -24,7 +24,7 @@ Pares Ordenados especially aims to provide such mentorship to Spanish-speaking s
 - Students with visible and/or invisible disabilities
 - Students from Central America -->
 
-### HOW?
+#### HOW?
 Pares Ordenados takes place online.
 
 - Undergraduate students apply to be mentees.
@@ -34,7 +34,7 @@ Pares Ordenados takes place online.
 - Halfway through the semester, each pair decides on a final project and writes a project description that must be sent to the organizers.
 - At the end of the semester, there is an online event where mentees give short presentations about their directed reading course, and attend the panel about _Latinx/Hispanic Mathematicians Around The World_.
 
-### WHAT FOR?
+#### WHAT FOR?
 > “What is belonging? The extent to which an individual feels accepted, valued, and legitimate within the community.”
 > –[Deanna Haunsperger](https://www.youtube.com/watch?v=jwAE3iHi4vM)
 
