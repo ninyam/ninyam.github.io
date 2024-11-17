@@ -24,16 +24,19 @@ I am passionate about making mathematics more welcoming, more accessible, and le
 
 Organize your courses by years, topics, or universities, however you like!-->
 
+<hr>
 
 ### Teaching
 
 #### Future Courses
+
 - **MATH 226: Calculus I** - _Spring 2025_
 
 
 #### Previous Courses
 
 ##### Duke University
+
 - **Laboratory Calculus and Functions I** - _Spring 2024_
 - **Algebraic Topology I** - _Fall 2023_
 - **Non-Research Independent Study on Topological Data Analysis** - _Spring 2023_
@@ -42,8 +45,34 @@ Organize your courses by years, topics, or universities, however you like!-->
 - **Laboratory Calculus II** - _Spring 2022_
 
 ##### University of British Columbia
+
 - **Linear Systems** - Online - _Spring 2021_
 
 ##### Universidad de Caldas
+
 - **Lógica Matemática** - _Fall 2013_
+
+
+### Teaching
+
+#### Future Courses
+
+- **MATH 226: Calculus I** - _Spring 2025_
+
+
+#### Previous Courses
+
+- ##### Duke University
+    - **Laboratory Calculus and Functions I** - _Spring 2024_
+    - **Algebraic Topology I** - _Fall 2023_
+    - **Non-Research Independent Study on Topological Data Analysis** - _Spring 2023_
+    - **Introduction to Abstract Algebra** - _Fall 2022_
+    - **Laboratory Calculus II** - Online - _Summer 2022_
+    - **Laboratory Calculus II** - _Spring 2022_
+
+- ##### University of British Columbia
+    - **Linear Systems** - Online - _Spring 2021_
+
+- ##### Universidad de Caldas
+    - **Lógica Matemática** - _Fall 2013_
 
