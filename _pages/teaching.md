@@ -26,37 +26,9 @@ Organize your courses by years, topics, or universities, however you like!-->
 
 <hr>
 
-### Teaching
+## Teaching
 
 #### Future Courses
-
-- **MATH 226: Calculus I** - _Spring 2025_
-
-
-#### Previous Courses
-
-##### Duke University
-
-- **Laboratory Calculus and Functions I** - _Spring 2024_
-- **Algebraic Topology I** - _Fall 2023_
-- **Non-Research Independent Study on Topological Data Analysis** - _Spring 2023_
-- **Introduction to Abstract Algebra** - _Fall 2022_
-- **Laboratory Calculus II** - Online - _Summer 2022_
-- **Laboratory Calculus II** - _Spring 2022_
-
-##### University of British Columbia
-
-- **Linear Systems** - Online - _Spring 2021_
-
-##### Universidad de Caldas
-
-- **Lógica Matemática** - _Fall 2013_
-
-
-### Teaching
-
-#### Future Courses
-
 - **MATH 226: Calculus I** - _Spring 2025_
 
 
@@ -70,9 +42,18 @@ Organize your courses by years, topics, or universities, however you like!-->
     - **Laboratory Calculus II** - Online - _Summer 2022_
     - **Laboratory Calculus II** - _Spring 2022_
 
+
 - ##### University of British Columbia
     - **Linear Systems** - Online - _Spring 2021_
+
 
 - ##### Universidad de Caldas
     - **Lógica Matemática** - _Fall 2013_
 
+<hr>
+
+## Mentoring
+- Member of the [AWM  Mentoring Network](https://awm-math.org/programs/mentor-network/). _Summer 2023 - Present_
+- Summer Project - **Mentee:** Festus Akinsola, Duke University. **Project:** An Introduction to TDA -  _Summer 2023_
+- Non-research Independent Study. **Mentees:** Ryan Iki and Mark Rekutin, Duke University. **Project:** An Introduction to TDA - _Spring 2023_  
+- [Twoples](https://sites.google.com/view/twoples/about/past-years?authuser=0) - Online DRP. **Mentee:** Alice Mehalek, University of Alaska Southeast. **Project:** Group Actions, Sylow Theorems, and Modules - _Spring 2022_
