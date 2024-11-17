@@ -22,9 +22,3 @@ In my doctoral thesis, I established decomposition theorems for topological Azum
 {% bibliography %}
 
 </div>
-
-### Talks
-
-### Workshops
-
-### Expository Writings
