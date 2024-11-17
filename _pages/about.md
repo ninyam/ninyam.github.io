@@ -15,7 +15,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-In January 2025, I will join the [Department of Mathematics](https://math.sfsu.edu) at San Francisco State University as an Assistant Professor. I will be a member of the [_Black and Latinx/e Student Success Cohort_](https://cose.sfsu.edu/news/new-faculty-bring-diverse-expertise-college-science-engineering).
+In January 2025, I will join the [Department of Mathematics](https://math.sfsu.edu) at San Francisco State University as an Assistant Professor. I will be a member of the [Black and Latinx/e Student Success Cohort](https://cose.sfsu.edu/news/new-faculty-bring-diverse-expertise-college-science-engineering).
 
 I was a William W. Elliot Assistant Research Professor at the Department of Mathematics at Duke University. My postdoctoral mentors were [Kirsten Wickelgren](https://services.math.duke.edu/~kgw/index.html) and [Veronica Ciocanel](https://services.math.duke.edu/~ciocanel/).
 
