@@ -55,6 +55,6 @@ Organize your courses by years, topics, or universities, however you like!-->
 ## Mentoring
 - **Mentor of the [AWM Mentoring Network](https://awm-math.org/programs/mentor-network/)** - _Mentee:_ Dhanusshya Raghu, Ramanujan Institute for Advanced Study in Mathematics - _Summer 2023_
 - **Summer Project** - _Mentee:_ Festus Akinsola, Duke University - _Project:_ An Introduction to TDA -  _Summer 2023_
-- **Non-research Independent Study** - _Mentees:_ Ryan Iki and Mark Rekutin, Duke University - _Project:_ An Introduction to TDA - _Spring 2023_ - See expository document: [An introduction to TDA
+- **Independent Study** - _Mentees:_ Ryan Iki and Mark Rekutin, Duke University - _Project:_ An Introduction to TDA - _Spring 2023_ - See expository document: [An introduction to TDA
 ](/assets/pdf/2022_Iki & Rekutin_Expository_Intro to TDA.pdf) by Ryan Iki and Mark Rekutin.
 - **[Twoples](https://sites.google.com/view/twoples/about/past-years?authuser=0) - Online DRP**. _Mentee:_ Alice Mehalek, University of Alaska Southeast - _Project:_ Group Actions, Sylow Theorems, and Modules - _Spring 2022_
