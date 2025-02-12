@@ -28,7 +28,7 @@ Organize your courses by years, topics, or universities, however you like!-->
 
 ## Teaching
 
-#### Future Courses
+#### Current Courses
 - **MATH 226: Calculus I** - _Spring 2025_
 
 
