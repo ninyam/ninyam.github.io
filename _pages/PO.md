@@ -18,7 +18,7 @@ Pares Ordenados especially aims to provide such mentorship to Spanish-speaking s
 <!-- - Women
 - Students of African descent
 - Students of indigenous descent
-- Students who were victims of armed conflicts and/or forced displacement
+- Students who survived armed conflicts and/or forced displacement
 - Students who are members of the LGBTQIA+ community
 - Students who are immigrants or refugees
 - Students with visible and/or invisible disabilities
