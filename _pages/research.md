@@ -9,9 +9,9 @@ nav_order: 1
 
 <!-- Agregar proyectos con imágenes. Ver página de Veronica. Por ejemplo, TAAs, protein networks, MRC-->
 
-My research interests lie at the interface of algebra, algebraic geometry, and, algebraic topology. Also, I have been expanding my research interests to the area of topological data analysis and its application to other disciplines.
+My research spans `Algebraic Topology`, `Topological Data Analysis` and its application to other disciplines, and, more recently, the  `Scholarship of Teaching and Learning`. 
 
-In my doctoral thesis, I established decomposition theorems for topological Azumaya algebras, and for topological Azumaya algebras with involutions of the first kind. I am currently working on the computation of the integral cohomology of classifying spaces of some projective spaces. I am also working on a TDA-MathBio project with Veronica Ciocanel.
+In my doctoral thesis, I established decomposition theorems for topological Azumaya algebras, and for topological Azumaya algebras with involutions of the first kind. 
 
 ### Publications 
 <!-- Every project has a beautiful feature showcase page. It’s easy to include images in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.-->
