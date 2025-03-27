@@ -1,3 +1,3 @@
 ID	Lastname	Name	Section	Edfinity Hwk	Exam 1	Exam 2	Final Exam	DiSTEAM Project	Lab
-90000	Arcila	Niny	226						
-			MAX	100	100	100	100	100	100
+92343	Aragon	Josue Daniel	226.01		43							
+00000	MAX			100	100	100	100	100	100
