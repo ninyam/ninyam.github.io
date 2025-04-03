@@ -1,0 +1,3 @@
+ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
+614  Wilson    20   87        73                                
+000  MAX       100  100       100    100    100        100      

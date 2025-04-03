@@ -1,0 +1,3 @@
+ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
+104  Ambaliya  74   87        66                                
+000  MAX       100  100       100    100    100        100      
