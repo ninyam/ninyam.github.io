@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching & Mentoring
 description: # Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 > “Teachers have three loves: love of learning, love of learners, and the love of bringing the first two loves together.”
