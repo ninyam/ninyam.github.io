@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-195  Amado     87   67        28                                
-000  MAX       100  100       100    100    100        100      

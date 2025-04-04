@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-191  Gonzalez  58   95        73                                
-000  MAX       100  100       100    100    100        100      

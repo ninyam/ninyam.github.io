@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-242  Stephens  75   80        13                                
-000  MAX       100  100       100    100    100        100      

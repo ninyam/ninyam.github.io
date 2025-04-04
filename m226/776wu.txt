@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-776  Wung      96   94        82                                
-000  MAX       100  100       100    100    100        100      

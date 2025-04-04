@@ -1,3 +1,0 @@
-ID   Lastname  Lab      Edfinity  Exam1  Exam2  FinalExam  Project  
-892  Gallardo  Serrano  26        75     0                          
-000  MAX       100      100       100    100    100        100      
