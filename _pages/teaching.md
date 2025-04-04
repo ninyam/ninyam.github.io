@@ -61,3 +61,8 @@ Organize your courses by years, topics, or universities, however you like!-->
 - **Independent Study** - _Mentees:_ Ryan Iki and Mark Rekutin, Duke University - _Project:_ An Introduction to TDA - _Spring 2023_ - See expository document: [An introduction to TDA
 ](/assets/pdf/2022_Iki & Rekutin_Expository_Intro to TDA.pdf) by Ryan Iki and Mark Rekutin.
 - **[Twoples](https://sites.google.com/view/twoples/about/past-years?authuser=0) - Online DRP**. _Mentee:_ Alice Mehalek, University of Alaska Southeast - _Project:_ Group Actions, Sylow Theorems, and Modules - _Spring 2022_
+
+
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+
+Organize your courses by years, topics, or universities, however you like!
