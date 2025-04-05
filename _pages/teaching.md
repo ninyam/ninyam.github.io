@@ -34,6 +34,7 @@ Organize your courses by years, topics, or universities, however you like!-->
 
 #### Current Courses
 - **MATH 226: Calculus I** - _Spring 2025_
+- **MATH 899: Introduction to Algebraic Topology** - _Spring 2025_
 
 #### Previous Courses
 
