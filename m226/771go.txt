@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-771  Godinez   99   100       40                                
-000  MAX       100  100       100    100    100        100      

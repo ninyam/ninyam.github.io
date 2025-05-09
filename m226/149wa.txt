@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-149  Watson    78   61        33                                
-000  MAX       100  100       100    100    100        100      

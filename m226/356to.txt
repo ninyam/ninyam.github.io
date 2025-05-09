@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-356  Torres    96   92        53                                
-000  MAX       100  100       100    100    100        100      
