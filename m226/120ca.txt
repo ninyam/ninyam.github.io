@@ -1,0 +1,3 @@
+ID   Lastname     Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
+120  Castellanos  76   93        85     65                         
+000  MAX          100  100       100    100    100        100      

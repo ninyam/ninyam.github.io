@@ -1,0 +1,3 @@
+ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
+353  Harish    77   63        17     9                          
+000  MAX       100  100       100    100    100        100      
