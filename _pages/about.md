@@ -21,4 +21,6 @@ I was a William W. Elliot Assistant Research Professor at the Department of Math
 
 I obtained my Ph.D. in Mathematics at the University of British Columbia in August 2021. I worked under the supervision of [Ben Williams](https://personal.math.ubc.ca/~tbjw/) and [Alejandro Adem](https://personal.math.ubc.ca/~adem/). Before that, I completed my M.Sc. in Mathematics at the Universidad Nacional de Colombia in Medellín under the supervision of [José Manuel Gómez Guerra](https://sites.google.com/a/unal.edu.co/jmgomez0/english). I got my B.Sc. in Mathematics at the Universidad Nacional de Colombia in Manizales. More details on my academic background and activities are available on my **[cv](/assets/pdf/cv_NinyAM_092824.pdf)**.
 
+You can learn a bit more about me in the [2024 Calendar of Lathisms](https://www.lathisms.org/calendar-2024/niny-arcila-maya)!
+
 _Photo by Jorge Coronado-Sarmiento_
