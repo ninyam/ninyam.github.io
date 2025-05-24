@@ -1,0 +1,3 @@
+ID   Lastname     Lab  Edfinity  Exam1  Exam2  FinalExam  Project  FINALGRADE  LETTERGRADE
+498  DuarteAvila  12   31        36     0      0          0        13          F
+000  MAX          100  100       100    100    100        100      100         

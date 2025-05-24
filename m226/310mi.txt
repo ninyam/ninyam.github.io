@@ -1,0 +1,3 @@
+ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  FINALGRADE  LETTERGRADE
+310  Mills     98   87        86     76     77         96       89          B+
+000  MAX       100  100       100    100    100        100      100         

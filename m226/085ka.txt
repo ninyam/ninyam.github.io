@@ -1,0 +1,3 @@
+ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  FINALGRADE  LETTERGRADE
+085  Kakadiya  99   100       96     100    100        96       99          A
+000  MAX       100  100       100    100    100        100      100         
