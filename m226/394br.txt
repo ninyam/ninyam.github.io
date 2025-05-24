@@ -1,0 +1,3 @@
+ID   Lastname    Lab  Edfinity  Exam1  Exam2  FinalExam  Project  FINALGRADE  LETTERGRADE
+394  Braunstein  30   82        72     38     100        86       71          C-
+000  MAX         100  100       100    100    100        100      100         

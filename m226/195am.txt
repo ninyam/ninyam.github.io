@@ -1,0 +1,3 @@
+ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  FINALGRADE  LETTERGRADE
+195  Amado     80   92        28     49     97         100      84          B
+000  MAX       100  100       100    100    100        100      100         

@@ -1,0 +1,3 @@
+ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  FINALGRADE  LETTERGRADE
+563  Atkinson  78   85        76     66     93         94       85          B
+000  MAX       100  100       100    100    100        100      100         

@@ -1,0 +1,3 @@
+ID   Lastname     Lab  Edfinity  Exam1  Exam2  FinalExam  Project  FINALGRADE  LETTERGRADE
+120  Castellanos  78   98        85     65     98         98       90          A-
+000  MAX          100  100       100    100    100        100      100         
