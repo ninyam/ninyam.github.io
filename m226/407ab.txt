@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-407  Abracosa  81   79        36     54                         
-000  MAX       100  100       100    100    100        100      

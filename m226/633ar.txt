@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-633  Arreola   89   100       100    82                         
-000  MAX       100  100       100    100    100        100      

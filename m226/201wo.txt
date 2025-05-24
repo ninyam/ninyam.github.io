@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-201  Wolff     91   91        80     75                         
-000  MAX       100  100       100    100    100        100      
