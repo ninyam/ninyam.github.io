@@ -30,7 +30,7 @@ Organize your courses by years, topics, or universities, however you like!-->
 
 #### Future Courses
 - **MATH 226: Calculus I** - _Fall 2025_
-- **MATH 301: Exploration and Proof** - _Fall 2025_
+- **MATH 301GW: Exploration and Proof** - _Fall 2025_
 
 #### Current Courses
 - **MATH 226: Calculus I** - _Spring 2025_
