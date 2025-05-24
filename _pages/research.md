@@ -9,7 +9,7 @@ nav_order: 1
 
 <!-- Agregar proyectos con imágenes. Ver página de Veronica. Por ejemplo, TAAs, protein networks, MRC-->
 
-My research spans `Algebraic Topology`, `Topological Data Analysis` and its application to other disciplines, and, more recently, the  `Scholarship of Teaching and Learning`. 
+My research spans `Algebraic Topology`, and applications of `Topological Data Analysis` to other disciplines. 
 
 In my doctoral thesis, I established decomposition theorems for topological Azumaya algebras, and for topological Azumaya algebras with involutions of the first kind. 
 

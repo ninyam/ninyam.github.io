@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-577  Aragon    74   71        43     45                         
-000  MAX       100  100       100    100    100        100      

@@ -1,3 +1,0 @@
-ID   Lastname  Lab  Edfinity  Exam1  Exam2  FinalExam  Project  
-468  Zeigler   97   98        100    75                         
-000  MAX       100  100       100    100    100        100      
