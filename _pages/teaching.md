@@ -29,14 +29,22 @@ Organize your courses by years, topics, or universities, however you like!-->
 ## Teaching
 
 #### Future Courses
-- **MATH 226: Calculus I** - _Fall 2025_
-- **MATH 301GW: Exploration and Proof** - _Fall 2025_
+
 
 #### Current Courses
-- **MATH 226: Calculus I** - _Spring 2025_
-- **MATH 899: Introduction to Algebraic Topology** - _Spring 2025_
+- **MATH 226: Calculus I**
+- **MATH 301GW: Exploration and Proof**
+- **MATH 899: Introduction to Sheaves**
+- **MATH 899: Introduction to Topological Data Analysis**
+- **MATH 899: Spectral Sequences**
+
 
 #### Previous Courses
+- ##### San Francisco State University
+    - Spring 2025
+        - **MATH 226: Calculus I**
+        - **MATH 899: Introduction to Algebraic Topology**_
+
 
 - ##### Duke University
     - **Laboratory Calculus and Functions I** - _Spring 2024_
