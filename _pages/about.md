@@ -36,6 +36,4 @@ I obtained my Ph.D. in Mathematics at the University of British Columbia in Augu
 
 You can learn a bit more about me in the [2024 Calendar of Lathisms](https://www.lathisms.org/calendar-2024/niny-arcila-maya)!
 
-_Photo by Jorge Coronado-Sarmiento_
-
-`profile` 
+_Photo by Jorge Coronado-Sarmiento_ 
