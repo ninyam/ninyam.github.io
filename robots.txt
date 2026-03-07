@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ninyam.github.io/mywebsite//sitemap.xml
+Sitemap: https://ninyam.github.io/mywebsite//mywebsite/sitemap.xml
