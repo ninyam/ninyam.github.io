@@ -278,8 +278,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Arcila-Maya]
-  first_name: [Niny]
+  last_name: [Arcila-Maya, Arcila Maya]
+  first_name: [Niny, N.]
 
   style: apa
   locale: en
