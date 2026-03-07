@@ -25,7 +25,7 @@ I am passionate about making mathematics more welcoming, more accessible, and le
 ## Teaching
 
 #### Future Courses
-- **Undergraduate Research Project - Center for Undergraduate Research in Mathematics (CURM)**
+- **Undergraduate Research Project** - [Center for Undergraduate Research in Mathematics (CURM)](https://urmath.org/curm/minigrants/)
 - **MATH 435/735: Modern Algebra II**
 
 
