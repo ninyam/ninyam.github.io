@@ -511,7 +511,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/mywebsite/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/mywebsite/assets/pdf/cv_NinyAM_092824.pdf", "_blank");
         },
       },{
         id: 'social-arxiv',
