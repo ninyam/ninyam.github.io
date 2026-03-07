@@ -4,7 +4,7 @@ permalink: /PO/
 title: Pares Ordenados
 description: 
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 > “The real satisfaction from mathematics is in learning from others and sharing with others.”

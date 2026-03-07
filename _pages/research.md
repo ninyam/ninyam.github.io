@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description:
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <!-- Agregar proyectos con imágenes. Ver página de Veronica. Por ejemplo, TAAs, protein networks, -->

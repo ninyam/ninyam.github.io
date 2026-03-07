@@ -4,7 +4,7 @@ permalink: /teaching_mentoring/
 title: Teaching & Mentoring
 description: 
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 > “Teachers have three loves: love of learning, love of learners, and the love of bringing the first two loves together.”
