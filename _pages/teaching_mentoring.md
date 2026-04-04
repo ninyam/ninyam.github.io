@@ -34,7 +34,7 @@ I am passionate about making mathematics more welcoming, more accessible, and le
 - **MATH 301GW: Exploration and Proof**
 - **MATH 335: Modern Algebra**
 - **MATH 899: Introduction to Topological Data Analysis**
-- **MATH 899: Persistence Homology and Spectral Sequences**
+- **MATH 899: Introduction to Persistence Homology**
 
 
 
@@ -43,7 +43,7 @@ I am passionate about making mathematics more welcoming, more accessible, and le
     - **MATH 226: Calculus I** - _Fall 2025, Spring 2025_
     - **MATH 301GW: Exploration and Proof** - _Fall 2025_
     - **MATH 899: Introduction to Algebraic Topology** - _Fall 2025, Spring 2025_
-    - **MATH 899: Introduction to Sheaves** - _Fall 2025_
+    - **MATH 899: Introduction to Sheaf Theory** - _Fall 2025_
     - **MATH 899: Introduction to Spectral Sequences** - _Fall 2025_
     - **MATH 899: Introduction to Topological Data Analysis** - _Fall 2025_
 
