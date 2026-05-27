@@ -25,27 +25,27 @@ I am passionate about making mathematics more welcoming, more accessible, and le
 ## Teaching
 
 #### Future Courses
-- **Undergraduate Research Project** - [Center for Undergraduate Research in Mathematics (CURM)](https://urmath.org/curm/minigrants/)
-- **MATH 435/735: Modern Algebra II**
+- **TBD**
+
 
 
 
 #### Current Courses
-- **MATH 301GW: Exploration and Proof**
-- **MATH 335: Modern Algebra**
-- **MATH 899: Introduction to Topological Data Analysis**
-- **MATH 899: Introduction to Persistence Homology**
+- **MATH 435/735: Modern Algebra II**
+- **MATH 699: Undergraduate Research Project**
 
 
 
 #### Previous Courses
 - ##### San Francisco State University
     - **MATH 226: Calculus I** - _Fall 2025, Spring 2025_
-    - **MATH 301GW: Exploration and Proof** - _Fall 2025_
+    - **MATH 301GW: Exploration and Proof** - _Spring 2026, Fall 2025_
+    - **MATH 335: Modern Algebra** - _Spring 2026_
     - **MATH 899: Introduction to Algebraic Topology** - _Fall 2025, Spring 2025_
+    - **MATH 899: Introduction to Persistence Homology** - _Spring 2026_
     - **MATH 899: Introduction to Sheaf Theory** - _Fall 2025_
     - **MATH 899: Introduction to Spectral Sequences** - _Fall 2025_
-    - **MATH 899: Introduction to Topological Data Analysis** - _Fall 2025_
+    - **MATH 899: Introduction to Topological Data Analysis** - _Spring 2026, Fall 2025_
 
 
 - ##### Duke University
