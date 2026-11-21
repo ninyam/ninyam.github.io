@@ -25,14 +25,15 @@ I am passionate about making mathematics more welcoming, more accessible, and le
 ## Teaching
 
 #### Future Courses
-- **TBD**
-
-
+- **MATH 301GW: Exploration and Proof**
+- **MATH 699: CURM - Undergraduate Research Experience** in collaboration with Aditi Grossman (Foothill College)
+- **MATH 699: Undergraduate Independent Study**
+- **MATH 850: Graduate Algebra**
 
 #### Current Courses
 - **MATH 435/735: Modern Algebra II**
-- **MATH 699: Undergraduate Research Project**
-
+- **MATH 699: CURM - Undergraduate Research Experience** in collaboration with Aditi Grossman (Foothill College)
+- **MATH 699: Linear Algebra & DDM Labeling**
 
 
 #### Previous Courses
